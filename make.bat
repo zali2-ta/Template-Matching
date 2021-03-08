@@ -1,0 +1,1 @@
+gcc -o template template.c dc_image.c -lm
